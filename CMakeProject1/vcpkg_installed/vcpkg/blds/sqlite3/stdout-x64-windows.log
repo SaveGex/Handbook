@@ -1,0 +1,16 @@
+-- Downloading https://sqlite.org/2024/sqlite-autoconf-3470000.tar.gz -> sqlite-autoconf-3470000.zip...
+-- Extracting source C:/Users/Opsik/AppData/Local/vcpkg/downloads/sqlite-autoconf-3470000.zip
+-- Applying patch fix-arm-uwp.patch
+-- Applying patch add-config-include.patch
+-- Using source at C:/Users/Opsik/source/repos/Handbook/CMakeProject1/vcpkg_installed/vcpkg/blds/sqlite3/src/nf-3470000-6d59c384be.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/Users/Opsik/source/repos/Handbook/CMakeProject1/vcpkg_installed/vcpkg/pkgs/sqlite3_x64-windows/lib/pkgconfig/sqlite3.pc
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/Opsik/AppData/Local/vcpkg/downloads/tools/msys2/d33df895d441a36d
+-- Fixing pkgconfig file: C:/Users/Opsik/source/repos/Handbook/CMakeProject1/vcpkg_installed/vcpkg/pkgs/sqlite3_x64-windows/debug/lib/pkgconfig/sqlite3.pc
+-- Installing: C:/Users/Opsik/source/repos/Handbook/CMakeProject1/vcpkg_installed/vcpkg/pkgs/sqlite3_x64-windows/share/sqlite3/usage
+-- Performing post-build validation

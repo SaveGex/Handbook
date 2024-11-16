@@ -6,4 +6,4 @@ Architecture: x64-windows
 Multi-Arch: same
 Abi: 416ffe203415f21c69476e4c1f3542ea03b271bfe9be4ec3d04a07fac442899c
 Description: JSON for Modern C++
-Status: install ok half-installed
+Status: purge ok half-installed
